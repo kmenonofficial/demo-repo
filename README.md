@@ -4,4 +4,8 @@ Some Description
 
 #Subheadder 
 
-Watch tutorial on Youtube
+Watch tutorial Youtube
+
+## Local Developemt
+
+1. Open index.html in your browser
